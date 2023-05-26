@@ -18,52 +18,52 @@
 
 
   {
-    "cmd": "init",
+    "cmd": "ton_decontracte",
     "act": "ton_decontracte",
     "prompt": "Utilise un ton « Décontracté et convivial ». Ce ton de voix est conversationnel et accessible, utilisant un langage facile à comprendre. Il utilise souvent des contractions et un langage informel. Exemple : « Salut ! Nous sommes ravis que vous soyez passé par ici. »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_emotionnel",
     "act": "ton_emotionnel",
     "prompt": "Utilise un ton « Émotionnel et personnel ». Ce ton de voix utilise un langage émotionnel et des anecdotes personnelles pour se connecter avec le public. Il utilise souvent une approche de narration. Exemple : « Notre histoire a commencé par une idée simple : créer un produit qui changerait la vie des gens pour le mieux. »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_professionnel",
     "act": "ton_professionnel",
     "prompt": "Utilise un ton « Professionnel et formel ». Ce ton de voix est sérieux et direct, utilisant un langage précis et technique. Il évite souvent les contractions et utilise un langage formel. Exemple : « Nous sommes heureux de vous accueillir sur notre site Web. »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_sarcastique",
     "act": "ton_sarcastique",
     "prompt": "Utilise un ton « Sarcastique ou humoristique ». Ce ton de voix utilise l’ironie, l’esprit et l’humour pour engager le public. Cela peut être ludique et pas toujours sérieux. Exemple : « Bienvenue sur notre site Web, où les offres sont toujours trop belles pour être vraies »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_inspirant",
     "act": "ton_inspirant",
     "prompt": "Utilise un ton « Inspirant et motivant ». Ce ton de voix utilise un langage édifiant et encourage le public à agir. Il utilise souvent des expressions telles que « vous pouvez » ou « vous le ferez ». Exemple : « Vous pouvez atteindre vos objectifs avec notre aide »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_confiant",
     "act": "ton_confiant",
     "prompt": "Utilise un ton « Confiant et assertif ». Ce ton de voix utilise un langage fort et sûr de lui. Il utilise souvent des phrases telles que « nous savons » ou « nous sommes les meilleurs ». Exemple : « Nous savons que notre produit est le meilleur du marché »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_reflechi",
     "act": "ton_reflechi",
     "prompt": "Utilise un ton « Réfléchi et songeur ». Ce ton de voix utilise un langage contemplatif et introspectif. Il utilise souvent des expressions telles que « nous croyons » ou « nous pensons ». Exemple : « Nous pensons que notre approche est la bonne »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_digne",
     "act": "ton_digne",
     "prompt": "Utilise un ton « Digne de confiance » t sérieux. Ce ton de voix utilise un langage fiable et posé. Il utilise souvent des phrases telles que « nous sommes là pour vous » ou « vous pouvez compter sur nous ». Exemple : « Vous pouvez compter sur nous pour le meilleur service client »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_innovant",
     "act": "ton_innovant",
     "prompt": "Utilise un ton « Innovant et avant »-ardiste. Ce ton de voix utilise un langage avant-gardiste et tourné vers l’avenir. Il utilise souvent des expressions telles que « nous sommes les premiers » ou « nous sommes l’avenir ». Exemple : « Nous sommes les premiers de notre industrie à adopter cette technologie »"
   },
   {
-    "cmd": "init",
+    "cmd": "ton_inclusif",
     "act": "ton_inclusif",
     "prompt": "Utilise un ton « Inclusif et diversifié ». Ce ton de voix utilise un langage inclusif et respectueux des différentes cultures et origines. Il utilise souvent des expressions telles que « tout le monde » ou « tous sont les bienvenus ». Exemple : « Tout le monde est le bienvenu ici »"
   },
