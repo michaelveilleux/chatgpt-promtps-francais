@@ -1,7 +1,6 @@
 [
 
-// PARAM / INIT
-
+  
   {
     "cmd": "init1",
     "act": "Initialisation",
@@ -24,7 +23,7 @@
     "tags": []
   }
 
-// TONS
+
 
   {
     "cmd": "init",
@@ -97,9 +96,7 @@
     "tags": []
   }
 
-// RÔLES 
 
-// Sources : https://www.pickyou.fr/chatgpt
   {
     "cmd": "act-redacteur-seo",
     "act": "Un Rédacteur SEO",
